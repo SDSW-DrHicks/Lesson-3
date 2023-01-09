@@ -2,7 +2,7 @@
 # Functions
 # -------------------------------------
 
-# Python3 code to demonstrate
+# Python code to demonstrate
 # def keyword
 
 # function for subtraction of 2 numbers.
