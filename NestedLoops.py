@@ -5,7 +5,7 @@
 # Here is the general structure of a nested set of loops:
 
 # outer for loop
-#for element in sequence
+# for element in sequence
 #   # inner for loop
 #   for element in sequence:
 #       body of inner for loop
